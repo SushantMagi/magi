@@ -1,0 +1,2 @@
+# magi
+first repository
